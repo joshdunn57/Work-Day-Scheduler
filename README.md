@@ -16,3 +16,4 @@ During this challenge, I was given the task to create a calendar for a user duri
 
 https://joshdunn57.github.io/Work-Day-Scheduler/
 
+![image](https://user-images.githubusercontent.com/105329236/174901683-c0db670b-fcb5-45d0-b5d8-558d4947695d.png)
